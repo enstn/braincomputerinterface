@@ -1,13 +1,3 @@
-### Setting Up the Conda Environment
+### (maybe) useful readings
 
-To create a Conda environment with the same dependencies as I did:
-
-```bash
-conda env create --file labenv.yml
-conda activate lab3
-```
-
-### Small HeadsUp 
-
-I modified our code into function calls in case we have to reuse our pipeline. Also added a mean function. 
-Your data peforms better on the mean of all 8 channels, just run the code & you'll see.
+- [Converting Your Thoughts to Texts: Enabling Brain Typing via Deep Feature Learning of EEG Signals](https://ieeexplore.ieee.org/abstract/document/8444575) -> 95% accuracy for 5 classes
